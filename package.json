@@ -18,7 +18,7 @@
     "@types/react-navigation": "^3.0.8",
     "@types/react-test-renderer": "^16.9.2",
     "axios": "^0.19.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "react": "16.9.0",
     "react-native": "0.61.5",
     "react-native-debounce-input": "^1.0.5",
